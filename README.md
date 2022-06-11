@@ -1,10 +1,8 @@
-📝 `NOTE` Use this template to initialize the contents of a README.md file for your application. As you work on your assignment over the course of the week, update the required or stretch features lists to indicate which features you have completed by changing `[ ]` to `[x]`. (🚫 Remove this paragraph before submitting your assignment.)
-
 ## Week 1 Assignment: Flixster
 
-Submitted by: **NAME**
+Submitted by: **Kevin Gomes**
 
-Estimated time spent: **#** hours spent in total
+Estimated time spent: **8** hours spent in total
 
 Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
@@ -41,24 +39,21 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 - [ ] Implement anything else that you can get done to improve the app functionality!
 
 ### Walkthrough Video
-
-`TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video or gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
-
-`ADD_EMBEDDED_CODE_HERE`
+https://github.com/KevinGomes/flixster_starter_repo/blob/main/walkthrough_flixster_01.gif
 
 ### Reflection
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-Add your response here
+The largest help in terms of labwork, would have to be lab 3, as that focused on API calls as well as parsing json data. These two topics were crucial for this project.
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-Add your response here
+I would implement tidier CSS for my modal element, and change all of the fonts on my website, as everything is currently using the default font. 
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-Add your response here
+Everything went well with my demo, all of the core features were displayed properly, one setch feature, the embeded youtube video, failed, but I consider that to be an acceptable loss. Something that caught my eye was that one of my peers implemented a light mode/dark mode button. 
 
 ### Open-source libraries used
 
